@@ -1,0 +1,25 @@
+.active__item {
+  font-weight: bold;
+}
+button {
+  margin-right: 35px !important;
+}
+ul.navbar-nav > li:hover {
+  background-color: lightgreen;
+}
+@media screen and (max-width: 768px) {
+  div.in > ul > li {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  div.collapsing > ul > li {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+.container {
+  margin-left: 0px;
+}
+.navbar {
+  margin-bottom: 0px;
+}

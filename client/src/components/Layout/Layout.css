@@ -1,0 +1,9 @@
+.main__container { /* Adjust these settings*/
+  background-color: rgba(0,0,0,0);
+  border: 10px solid blue;
+  /*border-radius: 0.5em;*/
+  padding-top: 1em;
+  padding-right: 2em;
+  padding-left: 2em;
+  padding-bottom: 1em;
+}
